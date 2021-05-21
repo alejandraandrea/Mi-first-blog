@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-05-20T22:44:23-04:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-05-20-my-second-blog-post/",
+    "title": "My second blog post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-05-20",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-20T23:18:40-04:00",
+    "input_file": "my-second-blog-post.utf8.md"
   }
 ]
